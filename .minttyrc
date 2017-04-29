@@ -1,0 +1,10 @@
+BoldAsFont=yes
+Font=DejaVu Sans Mono
+FontHeight=11
+FontWeight=400
+FontIsBold=no
+FontSmoothing=full
+Transparency=off
+CursorType=underscore
+OpaqueWhenFocused=no
+BackgroundColour=22,22,22
